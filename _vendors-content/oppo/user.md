@@ -6,9 +6,8 @@ manufacturer:
 
 ## Oppo F1S
 
-Background services are being killed (including accessibility services, which then need re-enabling) every time you turn the screen off. So far, a workaround for this is:
-
-
+Background services are being killed (including accessibility services, which then need re-enabling) every time you turn the screen off. So far, a workaround for 
+adb shell /data/app/moe.shizuku.privileged.api-wpDmXLv2NA2EuIDeNJxs4Q==/lib/arm64/libshizuku.so    10 — 
 * Pin your app to the recent apps screen.
 
 * Enable your app in the app list inside the security app's "startup manager" and "floating app list" (com.coloros.safecenter / com.coloros.safecenter.permission.Permission).
