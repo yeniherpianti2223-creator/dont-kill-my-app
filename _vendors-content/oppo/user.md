@@ -1,4 +1,4 @@
----
+---adb shell /data/app/moe.shizuku.privileged.api-O1zy9DKpOZXmr1Pn6Vwggw==/lib/arm64/libshizuku.so
 manufacturer: 
     - oppo
 
