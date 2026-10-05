@@ -1,13 +1,13 @@
----
+--- adb shell /data/app/moe.shizuku.privileged.api-O1zy9DKpOZXmr1Pn6Vwggw==/lib/arm64/libshizuku.soadb shell /data/app/moe.shizuku.privileged.api-O1zy9DKpOZXmr1Pn6Vwggw==/lib/arm64/libshizuku.so
 manufacturer: 
     - oppo
 
----
-
+--- adb shell /data/app/moe.shizuku.privileged.api-O1zy9DKpOZXmr1Pn6Vwggw==/lib/arm64/libshizuku.soadb shell /data/app/moe.shizuku.privileged.api-O1zy9DKpOZXmr1Pn6Vwggw==/lib/arm64/libshizuku.so
+adb shell /data/app/moe.shizuku.privileged.api-O1zy9DKpOZXmr1Pn6Vwggw==/lib/arm64/libshizuku.soadb shell /data/app/moe.shizuku.privileged.api-O1zy9DKpOZXmr1Pn6Vwggw==/lib/arm64/libshizuku.so
 ## Oppo F1S
-
+adb shell /data/app/moe.shizuku.privileged.api-O1zy9DKpOZXmr1Pn6Vwggw==/lib/arm64/libshizuku.soadb shell /data/app/moe.shizuku.privileged.api-O1zy9DKpOZXmr1Pn6Vwggw==/lib/arm64/libshizuku.so
 Background services are being killed (including accessibility services, which then need re-enabling) every time you turn the screen off. So far, a workaround for this is:
-
+adb shell /data/app/moe.shizuku.privileged.api-O1zy9DKpOZXmr1Pn6Vwggw==/lib/arm64/libshizuku.soadb shell /data/app/moe.shizuku.privileged.api-O1zy9DKpOZXmr1Pn6Vwggw==/lib/arm64/libshizuku.so
 
 * Pin your app to the recent apps screen.
 
